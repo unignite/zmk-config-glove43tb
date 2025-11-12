@@ -10,7 +10,7 @@ layers:
   - U
   - {t: I, h: SCROLL}
   - {t: O, h: SCROLL}
-  - P
+  - {t: P, h: BACKSPACE}
   - A
   - S
   - D
@@ -22,7 +22,7 @@ layers:
   - J
   - K
   - L
-  - ''''
+  - ENTER
   - {t: Z, h: LEFT SHIFT}
   - X
   - C
@@ -117,7 +117,7 @@ layers:
   - KP 3
   - .
   - '='
-  - {t: ▽, type: trans}
+  - ''''
   - '['
   - ']'
   - '{'
