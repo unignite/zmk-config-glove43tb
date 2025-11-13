@@ -66,7 +66,7 @@ layers:
   - '4'
   - '5'
   - '6'
-  - {t: ▽, type: trans}
+  - '0'
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -78,7 +78,7 @@ layers:
   - '1'
   - '2'
   - '3'
-  - '0'
+  - .
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -152,9 +152,9 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - '&mkp MB1'
   - UP ARROW
-  - ENTER
+  - '&mkp MB2'
   - LEFT SHIFT
   - Gui+Sft+LEFT ARROW
   - {t: ▽, type: trans}
