@@ -39,8 +39,8 @@ layers:
   - LEFT WIN
   - LEFT ALT
   - {t: '&to_layer_0 LC(SPACE)', h: '6'}
-  - {t: SPACE, h: NUM}
-  - {t: '&to_layer_0 LC(SPACE)', h: ARROW}
+  - {t: Ctl+SPACE, h: NUM}
+  - {t: '&to_layer_0 SPACE', h: ARROW}
   - BACKSPACE
   - {t: ENTER, h: FUNCTION}
   - DEL
@@ -284,9 +284,9 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
+  - Ctl+LEFT ARROW
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - Ctl+RIGHT ARROW
   - {t: ▽, type: trans}
   - '1'
   - '2'
@@ -309,12 +309,12 @@ layers:
   - {t: ▽, type: trans}
   - BT CLR ALL
 combos:
-- p: [11, 12]
+- p: [11, 10]
   k: TAB
 - p: [12, 13]
   k: Sft+TAB
-- p: [11, 10]
-  k: '&to_layer_0 INT_MUHENKAN'
+- p: [0, 1]
+  k: ESCAPE
 - p: [20, 21]
   k: '"'
 - p: [24, 25]
