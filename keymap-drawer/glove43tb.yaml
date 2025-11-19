@@ -9,7 +9,7 @@ layers:
   - Y
   - U
   - {t: I, h: SCROLL}
-  - O
+  - {t: O, h: SCROLL}
   - P
   - A
   - S
