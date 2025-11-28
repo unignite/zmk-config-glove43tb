@@ -38,8 +38,8 @@ layers:
   - LCTRL
   - LEFT WIN
   - LEFT ALT
-  - {t: '&to_layer_0 LC(SPACE)', h: '6'}
-  - {t: Ctl+SPACE, h: NUM}
+  - {t: '&to_layer_0 INTERNATIONAL_5', h: '6'}
+  - {t: INT KATAKANAHIRAGANA, h: NUM}
   - {t: '&to_layer_0 SPACE', h: ARROW}
   - BACKSPACE
   - {t: ENTER, h: FUNCTION}
